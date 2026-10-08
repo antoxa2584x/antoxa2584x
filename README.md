@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Kyiv,_Ukraine-1e1b4b?style=for-the-badge&labelColor=1e1b4b" alt="location"/>
   <img src="https://img.shields.io/badge/✅_Open_to_work-16a34a?style=for-the-badge" alt="hireable"/>
-  <img src="https://komarev.com/ghpvc/?username=antoxa2584x&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="views"/>
   <img src="https://img.shields.io/github/followers/antoxa2584x?style=for-the-badge&logo=github&color=24243e&labelColor=0f0c29" alt="followers"/>
 </p>
 

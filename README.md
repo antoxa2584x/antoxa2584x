@@ -172,7 +172,7 @@ object Anton : Developer() {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoxa2584x&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20activity" alt="activity graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoxa2584x&theme=tokyonight" alt="contribution activity" width="100%"/>
 </p>
 
 <p align="center">

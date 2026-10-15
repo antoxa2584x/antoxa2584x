@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/antoxa2584x">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=40&lines=Porting+Need+for+Speed+to+Nintendo+Switch+%F0%9F%8F%8E%EF%B8%8F;Recompiling+Burnout+3+for+Switch+%F0%9F%92%A5;Reverse-engineering+retro+games+%F0%9F%95%B9%EF%B8%8F;Building+Android+apps+in+Kotlin+%F0%9F%93%B1;Hacking+ESP32+gadgets+for+my+car+%F0%9F%9A%97" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=40&lines=Porting+Need+for+Speed+to+Nintendo+Switch+%F0%9F%8F%8E%EF%B8%8F;Recompiling+Burnout+3+for+Switch+%F0%9F%92%A5;Recompiling+FlatOut+2+for+Switch+%F0%9F%9A%99;Reverse-engineering+retro+games+%F0%9F%95%B9%EF%B8%8F;Building+Android+apps+in+Kotlin+%F0%9F%93%B1;Hacking+ESP32+gadgets+for+my+car+%F0%9F%9A%97" alt="typing"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@ object Anton : Developer() {
 }
 ```
 
-- 🏎️ Bringing **Need for Speed Underground 1 & 2**, **Carbon** and **Burnout 3: Takedown** from the original Xbox to the **Nintendo Switch**
+- 🏎️ Bringing **Need for Speed Underground 1 & 2**, **Carbon**, **Burnout 3: Takedown** and **FlatOut 2** from the original Xbox to the **Nintendo Switch**
 - 🕹️ Reverse-engineering classics like **RC Cars** and **Gravity Defied** to run natively on handhelds
 - 📱 Years of **Android** experience: custom views, libraries and production apps in **Kotlin**
 - 🔌 Building tiny embedded gadgets: a round-display **ESP32 OBD-II gauge** for the car
@@ -117,6 +117,13 @@ object Anton : Developer() {
       <img src="https://img.shields.io/github/stars/antoxa2584x/UkrXMB?style=flat-square&color=facc15&logo=github"/>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/PSP-003791?style=flat-square&logo=playstation&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚙 <a href="https://github.com/antoxa2584x/flatout2-sw">flatout2-sw</a></h4>
+      <b>FlatOut 2</b> — static recompilation of the original Xbox version for <b>Nintendo Switch</b> and Linux.<br/><br/>
+      <img src="https://img.shields.io/github/stars/antoxa2584x/flatout2-sw?style=flat-square&color=facc15&logo=github"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Switch-E60012?style=flat-square&logo=nintendoswitch&logoColor=white"/>
     </td>
   </tr>
 </table>

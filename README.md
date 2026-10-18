@@ -141,10 +141,10 @@ object Anton : Developer() {
     </td>
     <td width="50%" valign="top">
       <h4>📷 <a href="https://github.com/antoxa2584x/gameboy-camera-adapter">gameboy-camera-adapter</a></h4>
-      Android companion app for the Game Boy Camera adapter.<br/><br/>
+      RP2040 adapter that saves Game Boy Camera photos to PC or phone via a USB web gallery: GB/GBC palettes, printer mode, iOS/Android support.<br/><br/>
       <img src="https://img.shields.io/github/stars/antoxa2584x/gameboy-camera-adapter?style=flat-square&color=facc15&logo=github"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/RP2040-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
     </td>
   </tr>
   <tr>

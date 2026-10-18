@@ -140,9 +140,9 @@ object Anton : Developer() {
       <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📷 <a href="https://github.com/antoxa2584x/gameboy-camera-adapter-companion">gameboy-camera-adapter-companion</a></h4>
+      <h4>📷 <a href="https://github.com/antoxa2584x/gameboy-camera-adapter">gameboy-camera-adapter</a></h4>
       Android companion app for the Game Boy Camera adapter.<br/><br/>
-      <img src="https://img.shields.io/github/stars/antoxa2584x/gameboy-camera-adapter-companion?style=flat-square&color=facc15&logo=github"/>
+      <img src="https://img.shields.io/github/stars/antoxa2584x/gameboy-camera-adapter?style=flat-square&color=facc15&logo=github"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     </td>

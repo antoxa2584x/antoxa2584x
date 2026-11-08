@@ -32,7 +32,7 @@ object Anton : Developer() {
 - 🏎️ Bringing **Need for Speed Underground 1 & 2**, **Carbon**, **Burnout 3: Takedown** and **FlatOut 2** from the original Xbox to the **Nintendo Switch**
 - 🕹️ Reverse-engineering classics like **RC Cars** and **Gravity Defied** to run natively on handhelds
 - 📱 Years of **Android** experience: custom views, libraries and production apps in **Kotlin**
-- 🔌 Building tiny embedded gadgets: a round-display **ESP32 OBD-II gauge** for the car
+- 🔌 Building tiny embedded gadgets: a round-display **ESP32 OBD-II gauge** for the car and a self-hosted **ESP32-S3 security camera**
 - 🇺🇦 Translating PSP's XMB into Ukrainian, because every console deserves it
 
 ---
@@ -140,14 +140,21 @@ object Anton : Developer() {
       <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
+      <h4>📹 <a href="https://github.com/antoxa2584x/modern-esp32-cam">modern-esp32-cam</a></h4>
+      Self-hosted security camera on an ESP32-S3-CAM: motion recording to microSD with pre-roll, on-device face recognition, web app, OTA and remote access via a TLS relay.<br/><br/>
+      <img src="https://img.shields.io/github/stars/antoxa2584x/modern-esp32-cam?style=flat-square&color=facc15&logo=github"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📷 <a href="https://github.com/antoxa2584x/gameboy-camera-adapter">gameboy-camera-adapter</a></h4>
       RP2040 adapter that saves Game Boy Camera photos to PC or phone via a USB web gallery: GB/GBC palettes, printer mode, iOS/Android support.<br/><br/>
       <img src="https://img.shields.io/github/stars/antoxa2584x/gameboy-camera-adapter?style=flat-square&color=facc15&logo=github"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       <img src="https://img.shields.io/badge/RP2040-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔨 <a href="https://github.com/antoxa2584x/retro_auction_bot">retro_auction_bot</a></h4>
       Lightweight Telegram auction bot.<br/><br/>
@@ -155,12 +162,15 @@ object Anton : Developer() {
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔧 <a href="https://github.com/antoxa2584x/rccars_re">rccars_re</a></h4>
       Reverse-engineering work behind the RC Cars port.<br/><br/>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Reverse_Engineering-1e1b4b?style=flat-square"/>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
